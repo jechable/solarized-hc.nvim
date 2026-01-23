@@ -1,0 +1,40 @@
+[colors.primary]
+background = '#fdf6e3'
+foreground = '#000000'
+
+[colors.normal]
+black   = '#000000'
+red     = '#c2232a'
+green   = '#6b8e00'
+yellow  = '#9d7300'
+blue    = '#0066cc'
+magenta = '#bf2773'
+cyan    = '#008080'
+white   = '#f5f0e8'
+
+[colors.bright]
+black   = '#4a5f6b'
+red     = '#b53d0f'
+green   = '#6b8e00'
+yellow  = '#9d7300'
+blue    = '#0066cc'
+magenta = '#5855b8'
+cyan    = '#008080'
+white   = '#fdf6e3'
+
+[window]
+opacity = 1.0
+
+[window.padding]
+x = 0
+y = 0
+
+[font]
+size = 11.0
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[cursor]
+style = { shape = "Block", blinking = "Off" }

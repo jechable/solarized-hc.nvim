@@ -1,0 +1,1 @@
+# Solarized High Contrast
