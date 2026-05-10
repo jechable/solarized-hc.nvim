@@ -23,7 +23,7 @@ cyan    = '#008080'
 white   = '#fdf6e3'
 
 [font]
-size = 11.0
+size = 12.5
 
 [font.normal]
 family = "monospace"
