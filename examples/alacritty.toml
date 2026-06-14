@@ -28,3 +28,6 @@ size = 12.5
 [font.normal]
 family = "monospace"
 style = "Regular"
+
+[mouse]
+hide_when_typing = true
